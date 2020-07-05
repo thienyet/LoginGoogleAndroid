@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <!--    <string name="facebook_application_id" translatable="false">878476555994568</string>-->
+    <!--    <string name="facebook_login_protocol_scheme" translatable="false">fb878476555994568</string>-->
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+</resources>
